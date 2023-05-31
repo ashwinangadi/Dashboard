@@ -17,7 +17,7 @@ export const TopBar = () => {
     }
     return (
         <>
-        <div className="flex flex-col sm:flex-row justify-between items-center lg:mt-[50px]">
+        <div className="flex flex-col sm:flex-row justify-between items-center lg:mt-[10px]">
                     <h1 className='font-bold font-mont text-2xl'>Dashbord</h1>
                     <span className='flex items-center justify-center'>
                         <div className='flex items-center justify-cente bg-white w-[180px] h-[30px] pe-[15px] rounded-[10px]'>

@@ -9,12 +9,12 @@ export default function App() {
   return (
     <>
     <AuthContextProvider>
-
+    
       <Routes>
-        <Route path="/" element={<Signin />} />
-        <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/" element={<Signin />} />
+          <Route path="/dashboard" element={<Dashboard />} />
       </Routes>
-
+      
     </AuthContextProvider>
     
     </>

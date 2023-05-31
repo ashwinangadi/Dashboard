@@ -10,7 +10,7 @@ export const Menu = () => {
     return (
         <>
             <div className='hidden lg:block'>
-                <div className={` bg-[#000000] w-screen lg:h-[944px] lg:max-w-[280px] my-10 ms-10 me-10 rounded-[30px] text-white ps-[50px] flex flex-col justify-between`}>
+                <div className={` bg-[#000000] w-screen lg:h-[944px] lg:max-w-[280px] ms-10 me-10 rounded-[30px] text-white ps-[50px] flex flex-col justify-between `}>
                     <span>
                         <h1 className='mt-[60px] font-mont font-bold text-4xl'>Board.</h1>
                         <ul className='mt-[60px] space-y-[40px] font-mont text-[18px] '>

@@ -76,7 +76,7 @@ export const Dashboard = () => {
 
     return(
 
-        <section className='container mx-auto max-w-[1440px] flex flex-col lg:flex-row justify-center items-center '>
+        <section className='container mx-auto max-w-[1440px] flex flex-col lg:flex-row items-center lg:items-start lg:my-10'>
             <Menu/>
             <div className='h-screen w-screen max-w-[1000px] lg:me-[40px] mx-10'>   
 
